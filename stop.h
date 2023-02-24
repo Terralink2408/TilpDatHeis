@@ -1,1 +1,3 @@
-#stopp ikke mobb
+//stopp ikke mobb
+//hei hopp
+//ny melding
